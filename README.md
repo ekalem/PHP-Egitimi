@@ -21,7 +21,11 @@ Bundan sonra da **PHP ve MySQL ile Web Programlama** eğitimleri için bir başv
 
 ## Kurulum Bilgileri
 - [Windows İçin Kurulum](./konular/kurulum.menu.windows.md)
+   - [Windows İçin Git Bash Kurulumu](./konular/kurulum.windows.gitbash.md)
 - [Linux İçin Kurulum](./konular/kurulum.menu.linux.md)
+  - [Ubuntu 19.04 Kurulumu Sonrasında Çalışma Ortamının Hazırlanması](./konular/ayarlar.ubuntu.md)
+  - [MariaDB/MySQL İçin Parola Belirleme / Sıfırlama](./konular/ayarlar.mariadb.md)
+  - [GitHub İçin SSH Key Üretme](./konular/ayarlar.sshkey.md)
 - [MacOS İçin Kurulum](./konular/kurulum.menu.macos.md)
 
 
@@ -61,6 +65,31 @@ Bundan sonra da **PHP ve MySQL ile Web Programlama** eğitimleri için bir başv
 - [Bootstrap Grid Yapısı](./konular/bootstrap.grid.md)
 - [Bootstrap Örnekleri](./konular/bootstrap.ornekleri.md)
 
+## Bootstrap İle Hazır Site Şablonları
+<details>
+<summary>Site şablonlarını göster</summary>
+
+- [Tabler](https://tabler.io/)
+- [Modern Bussiness](https://startbootstrap.com/templates/modern-business/)
+- [SB Admin](https://startbootstrap.com/templates/sb-admin/)
+- [SB Admin 2](https://startbootstrap.com/themes/sb-admin-2/)
+- [Freelancer](https://startbootstrap.com/themes/freelancer/)
+- [Shards Dashboard](https://github.com/DesignRevision/shards-dashboard)
+- [Sleek Dashboard](https://github.com/tafcoder/sleek-dashboard)
+- [Purple Fee Admin Template](https://www.bootstrapdash.com/product/purple-free-admin-template/)
+- [AdminLTE Admin Dashboard Template](https://adminlte.io/)
+- [Pixel Lite](https://graygrids.com/item/pixel-lite-free-bootstrap-4-ui-kit/)
+- [Free Bootstrap Templates](https://themefisher.com/free-bootstrap-templates/)
+- [Mobirise Free Templates](https://mobirise.com/free-template/)
+- [Metro UI](https://metroui.org.ua/)
+- [One UI Kit](https://github.com/OssamaZ/One-ui-kit)
+- [CSS Mint](http://arunmichaeldsouza.github.io/CSS-Mint/)
+- [Sport UI Kit](https://w3layouts.com/spot-ui-kit-a-flat-bootstrap-responsive-web-template/)
+- [w3layouts.com](https://w3layouts.com/)
+
+</details>
+
+
 
 ## jQuery
 - jQuery ve Ajax ve JSON (Yapılacak)
@@ -70,10 +99,11 @@ Bundan sonra da **PHP ve MySQL ile Web Programlama** eğitimleri için bir başv
 ## Veritabanı
 - [İlişkisel Veritabanı ve MySQL'e Giriş](./konular/iliskisel.veritabani.md)  
 - [5 Dakikada SQL](https://learnxinyminutes.com/docs/sql/)  
+- [Temel SQL Komutları](./konular/temel.sql.komutlari.md)
 
 
 ## MySQL'e Giriş
-- [MySQL Komutları](./konular/giris.konulari.mysql.md)
+- [Temel MySQL Komutları ve Örnekleri](./konular/giris.konulari.mysql.md)
 - [Örnek Veritabanları](https://github.com/nuriakman/Ornek_Veri_Setleri)
 - [MySQL String Komutları](./konular/komutlar.mysql.string.md)
 - [MySQL Tarih Komutları](./konular/komutlar.mysql.tarih.md)
@@ -110,18 +140,21 @@ Bundan sonra da **PHP ve MySQL ile Web Programlama** eğitimleri için bir başv
 
 
 ## PHP Örnekleri
-- [Örnek Kütüphaner](./konular/ornek.kutuphane.md)
+- [Örnek Kütüphane](./konular/ornek.kutuphane.md)
 - [PHP Örnekleri](./konular/php.ornekleri.md)
 - [PHP Projeleri](./konular/php.projeleri.md)
 - [MySQL Replication](./konular/mysql.replication.md)
 
 
-## Etüd İçin Örnekler
+## Etüd İçin Örnekler (Sınıfça yapılabilecek uygulamalar)
 - [PHP ve Bootstrap Örneği](./etud/etud.01.bootstrap.php)
 
 
 ## LINUX
-- [Temel Linux Komutları](./konular/linux.temel.komutlar.md)
+- [Temel Linux Komutları - Özet](./konular/linux.temel.komutlar.md)
+- [Temel Linux Komutları - Tam](./konular/linux.temel.komutlar.fazlasi.md)
+- [Linux Test Soruları - 1](./konular/linux.test.sorulari-1.md)
+- [Linux Test Soruları - 2](./konular/linux.test.sorulari-2.md)
 - [Eğitmen Notları](./konular/egitmen.notlari.md)
 - [Dosya İzinleri](./konular/dosya.izinleri.md)
 

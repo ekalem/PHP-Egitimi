@@ -135,7 +135,10 @@ Komut|Açıklama
 ```yum grouplist \| more``` | RHEL tabanlı sistemlerde yum gruplarını listeler
 ```apt-get install paket adı``` | Debian tabanlı sistemlerde paketi kur
 ```apt-get purge paket adı``` | Debian tabanlı sistemlerde paketi sil
-Derleme
+```apt-get install paket-ismi``` | Debian tabanlı sistemlerde paketi kur
+```apt-get remove paket-ismi``` | Debian tabanlı sistemlerde paketi sil
+```apt-get update``` | Debian tabanlı sistemlerde depo bilgilerini günceller
+```apt-get upgrade``` | Debian tabanlı sistemlerde kurulu paketleri günceller
 
 
 ## Temelde tüm derleme işlemleri aşağıdaki komutlar aracılığı ile yapılmaktadır.

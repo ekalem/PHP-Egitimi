@@ -1,5 +1,25 @@
+# NOTLAR
+
+Bu dosya ile, internette gezerken beğendiğim ve eğitim notlarına eklenebileceğini düşündüğüm çeşitli başlıkları not etmeye çalışıyorum.
+
+
+# Git
+- [Git ile Zulamala](http://vigo.github.io/git-tips/ipucu/2013/02/18/git-stash-anlik-mudahale-ya-da-zulalama/)
+- [Git Stash İşlemleri](http://tr.enisozgen.com/git-stash-islemleri/)
+
+# Veritabanı
+- [Veritabanına Giriş](https://erdemoflaz.com/veritabani-cesitleri-ve-kullanildiklari-alanlar/) - Notlarımız bu sayfaya göre güncellenebilir.
+
 # Çeşitli Konular
-- [Forklanan Projeyi GÜncel Tutma](https://stackoverflow.com/questions/20984802/how-can-i-keep-my-fork-in-sync-without-adding-a-separate-remote/21131381#21131381)
+- [Forklanan Projeyi Güncel Tutma](https://stackoverflow.com/questions/20984802/how-can-i-keep-my-fork-in-sync-without-adding-a-separate-remote/21131381#21131381)
+- [Blockly](https://developers.google.com/blockly/) Görsel kodlama
+- [Photopea](https://www.photopea.com/) Web tabanlı PhotoShop
+- [Monolithic / Micro Servis Mimarisi](https://medium.com/batech/monolithic-mimarinin-devri-ge%C3%A7ti-73185ea69baf)
+- [HTTP Nedir?](https://medium.com/@ustamustam/http-nedir-c9858c2b1a4c)
+- [Cookie Nedir?](https://medium.com/@ustamustam/cookie-nedir-nas%C4%B1l-%C3%A7al%C4%B1%C5%9F%C4%B1r-a46025f16ab8)
+- [AlaSQL](https://alasql.org/) Javascipt SQL veritabanı 
+- [Güzel bir eğitim sitesi - QuacKit](https://www.quackit.com/) HTML, CSS, JS, jQuery, MySQL, JSON, Sass, Flexbox vb
+
 
 # JavaScript
 - [KİTAP - You Don't Know JS - A book series on JavaScript](https://github.com/getify/You-Dont-Know-JS)
@@ -52,7 +72,7 @@
 
 # Notlar
 - JS, JSON ve AJAX konuları da ayrı bir başlık olarak ele alınacak.
-- PHP INPUT başlığı oluşturulmalı ve içinde GET, PUT, SESSION, COOKIES, FILE, DATABASE gibi başlıklar olmalı. 
+- PHP INPUT başlığı oluşturulmalı ve içinde GET, PUT, SESSION, COOKIES, FILE, DATABASE gibi başlıklar olmalı.
 - HTML INPUT başlığı altında FORM, input, anchor, checkbox, select vb başlıklara yer vermeliyiz. Form Validation başlığı da burada yer almalı.
 - [PHP-PDO ile Sınırsız Kategori Yapımı, İç içe ve Çoklu Kategori Sistemi](https://www.youtube.com/playlist?list=PL_f2F0Oyaj49BJclmJzAV0v1drrtyTI6o)
 
@@ -89,6 +109,7 @@
 - [cosmiclearn - Güzel Bir Eğitim Sitesi / HTML, CSS, JS, MySQL, PHP](https://www.cosmiclearn.com/index.php)
 - [HTML5 Şablonları](https://html5up.net/)
 - Trello'dan Bahsedelim: Fikirler, Yapılacaklar, Yapılmakta Olanlar, Yapılmış
+- [Türkçe Kurallı İfadeler/Regular Expressions](https://github.com/ziishankemtakeed/learn-regex/blob/master/translations/README-tr.md)
 
 # Örnek uygulama Yemek Sepeti
 - [Proje Taslağı](./konular/yemek.sepeti.md)
@@ -168,7 +189,7 @@ RESİMLER:
 - https://sosyalmedya.co/api-nedir/
 - https://blog.koddit.com/yazilim/api-nedir-ne-ise-yarar-orneklerle-inceleyelim/
 
-Resimler için: 
+Resimler için:
 - https://sosyalmedya.co/api-nedir/
 - https://4.bp.blogspot.com/-7DLByI2_wgo/WkUVweSxIoI/AAAAAAAAUvo/WNy2KEqGFMEF3efx3AR_gp25D9uBWZ0JQCLcBGAs/s1600/apis.png
 
@@ -204,7 +225,7 @@ ENTER,ENTER
 ```
 
 **Link için DOWNLOAD özelliği**
-- The download attribute, when used on an anchor tag, will tell a browser to directly download the linked resource, rather than navigate to it. Here's how to put it into practice: 
+- The download attribute, when used on an anchor tag, will tell a browser to directly download the linked resource, rather than navigate to it. Here's how to put it into practice:
 - *download* özelliği bağlantı etiketi üzerinde kullanıldığında, indirme özelliği bir tarayıcıya yönlendirmek yerine doğrudan bağlı kaynağı indirmesini söyleyecektir. İşte uygulamaya koymanın yolu:
 <a href="/data_2019.csv" download="2019 Data (CSV)"> Download data </a>
 
@@ -319,7 +340,7 @@ ENTER,ENTER
 # Git
 - Self Hosted Git Service: https://gogs.io/
 - Self Hosted Git Service: https://gitea.io/
-- GİT Workflow Strategys 
+- GİT Workflow Strategys
 - Open Source Proje Desteği Adımları Eğitimi https://github.com/firstcontributions/first-contributions/blob/master/translations/README.tr.md
 - Git Stash İçin Resim https://medium.com/@Galoomba/all-you-need-to-know-about-git-p-1-ac2f29e8ee93
 - Git Stash İçin Resim https://cdn-images-1.medium.com/max/800/1*diRLm1S5hkVoh5qeArND0Q.png
@@ -327,6 +348,7 @@ ENTER,ENTER
 - [Git Branch](https://github.com/vigo/git-puf-noktalari/blob/master/bolum-02/branch-ler-ile-calismak.md)
 - Git Workflow Stratejilerinin örnek resimlerle açıklanması
 - [Git Projelerinde Temizlik](./konular/git.projelerinde.media.temizligi.md)
+- [GitHub Ekranı Kısayolları](https://help.github.com/en/articles/keyboard-shortcuts)
 
 
 # MarkDown Editörleri
@@ -342,7 +364,7 @@ ENTER,ENTER
 - [Web Architectures](https://is.gd/WoFVlY)
 - [Yeni Yazılımcılara Tavsiyeler](https://denizkilinc.com/2013/10/10/yazilima-ve-programlamaya-yeni-baslayanlar-icin-tavsiyeler/)
 - [PHP Eğitimi Taslağı](./konular/taslak.icerik.md)
-- [PHP: Usulüne Uygun](https://kulekci.net/php-the-right-way/) 
+- [PHP: Usulüne Uygun](https://kulekci.net/php-the-right-way/)
 - [Olağanüstü Bir Eğitim Sitesi: RipTutorial](https://riptutorial.com/)
 - [PHP for Kids Eğitim Sitesi](http://www.phpforkids.com)
 
@@ -379,3 +401,75 @@ ENTER,ENTER
     echo post('hakkimda');
 
 ```
+
+
+
+# Güvenlik - XSS / CSRF / SQL injection
+
+
+- Klasördeki dosyalara erişimi engeller
+- deny from all
+
+- Dizin içeriğinin listelenmesini engelleme
+- Options -Indexes
+
+- Çıktı kaynaklı JS XSS'i engelleme
+- htmlspecialchars()
+- htmlspecialchars_decode()
+
+- Parola Hashleme
+- $HASH = password_hash($parola, PASSWORD_DEFAULT)
+- password_verify($parola, $HASH)
+
+- httpOnly Cookies
+- setcookie("degisken", "değer", strtotime("+1 day"), '/', null, null, true);
+
+- CSRF Konusu
+- Bizim sitemize başka bir siteden form POST edilmesi durumudur
+
+- TOKEN OLUŞTURMA: bin2hex(random_bytes(20))
+- TOKEN OLUŞTURMA: uniqid()
+
+- Önce bir TOKEN oluşturulup SESSION değişkenine kaydedilir.
+- Form'a bir saha eklenir ve TOKEN basılır
+```
+if($_SERVER['REQUEST_METHOD'] == 'POST') {
+  Formun SUBMİTi sonrası SESSION'daki TOKEN ile FORM'daki TOKEN karşılaştırlır
+}
+```
+- SQL Injection engellemek için MUTLAKA $db->prepare ve $db->execute kullanılmalı
+
+## Videolar
+- [Xeroploit: For Man-In-The-Middle Attack #tutorial](https://www.youtube.com/watch?v=9kUk6Yu7xVI)
+- [Cross-Site Request Forgery (CSRF) in Low/high level security & Prevention tutorial](https://www.youtube.com/watch?v=zFCB6XyLzmk)
+- [SQL Injection in MySQL Database & Prevention tutorial](https://www.youtube.com/watch?v=VEgERAOnnG8)
+
+## Boostrap
+- [Bootstrap Kişiselleştirme ve Tema Oluşturucusu](https://themestr.app/)
+- [Açık Kaynak, Ücretsiz Bootstrap Şablonları](https://themesguide.github.io/top-hat/dist/)
+- [Ücretsiz Bootstrap Şablonları](http://themes.guide/#freebies)
+- [Bootstrap Bavuru Kaynakları](http://bootstrap4.guide/)
+- [Bootstrap Tasarımcıları İçin Araçlar](http://bootstrap4.guide/cn/tools) (Themestr.app, Bootstrap Cheatsheet, Bootply, Bootsnipp, Bootstrap Build, MD Bootstrap, Reactstrap, Bootlint, Bootstrap Customizer, Bootstrap 4 Test Page)
+- [Free, open source Bootstrap 4 themes](https://github.com/ThemesGuide/bootstrap-themes/)
+- [Yeni ve Popüler Açık Kaynak Projeler](http://icodedis.tool.cards/)
+
+
+
+
+## MySQLi - PDO
+- [MySQLi](https://websitebeaver.com/prepared-statements-in-php-mysqli-to-prevent-sql-injection)
+- [PDO](https://websitebeaver.com/php-pdo-prepared-statements-to-prevent-sql-injection)
+- [MySQLi vs PDO](https://websitebeaver.com/php-pdo-vs-mysqli)
+
+
+## PHP İÇİN GÜZEL ve UZUN BİR SUNUM
+- https://www.slideshare.net/oguzhantas/php-sunum-14286830
+- http://www.oguzhantas.com/php/28-php-web-programlama-diline-giris-ve-orta-seviye.html
+
+
+## SUNUMLAR
+- [Pardus Linux ve Temel Komutlar/143](https://www.slideshare.net/oguzhantas/linux-sunum)
+- [PHP ile Profesyonel Web Programlama/148](https://www.slideshare.net/oguzhantas/php-sunum-14286830)
+- [javascript](https://www.slideshare.net/oguzhantas/java-script-17450735)
+- [Ubuntu Linux](https://www.slideshare.net/oguzhantas/ubuntu-linux-56394879)
+- [Özgür Yazılım ve Linux](https://www.slideshare.net/leucjo/zgr-yazlm-ve-linux-39064239)
